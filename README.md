@@ -1,7 +1,7 @@
 <!--
   ┌───────────────────────────────────────────────────────────────┐
   │  FILL THESE BEFORE PUBLISHING (search & replace):              │
-  │   • YOUR_GITHUB_USERNAME  → your GitHub username               │
+  │   • vaibhav7047  → your GitHub username               │
   │   • [Your City]           → your city                          │
   │   • #  (repo/demo links)  → real links once deployed           │
   │  Everything else is pulled from your CV — edit freely.         │
@@ -90,22 +90,37 @@
 
 ## 💼 Professional Experience
 
+### Full Stack Developer — Pentest Portlinks India Pvt. Ltd.
+`Nov 2025 – Present`
+- Develop, test, and maintain **full-stack applications** with **Next.js, NestJS, Node.js & MongoDB**
+- Build **background job processors** (report generation, bulk data operations) using **Bull + Redis**
+- Ensure optimal **performance and responsiveness** across server-side and client-side
+- Collaborate with **cross-functional teams** to deliver high-quality software solutions
+
 ### Full Stack Developer — Equator Tech Solutions Pvt. Ltd.
-`Mar 2022 – Present`
-- Developed scalable applications using **React.js, Next.js, Node.js, NestJS, MySQL & MongoDB**
+`Mar 2022 – 2025` <!-- verify exact end date -->
+- Built scalable applications using **React.js, Next.js, Node.js, NestJS, MySQL & MongoDB**
 - Improved backend API performance by **25%**
 - Built multiple **background job processors** using **Bull + Redis** for large data operations
-- Collaborated with UI/UX and global clients for end-to-end solution delivery
-- Mentored junior developers and contributed to sprint planning
+- Collaborated with UI/UX and global clients; mentored junior developers and drove sprint planning
 
 ---
 
 ## 🏗️ Featured Projects — Production & Client Work
 
 ### 🚢 PLI — Logistics & Transport Management System
-Multi-company platform for port and fleet operations — trip cards, load receipts, freight forwarding, billing, FASTag and GPS tracking. Role-based access control (RBAC) and background report generation.
-`Next.js` `NestJS` `MongoDB` `Bull` `Redis` `TypeScript`
-> 🔒 _Private production codebase — client project_
+Multi-company platform for port and fleet operations — trip cards, load receipts, freight forwarding, billing, FASTag and GPS tracking, with **role-based access control (RBAC)**.
+
+**Key work:**
+- 🔗 Integrated **ULIP Government APIs** — Aadhaar verification, Vehicle verification & Driving Licence verification
+- 🚧 **FASTag API** integration for toll transactions
+- 🧾 **GST verification** & **PAN verification** APIs
+- 📊 **Background report generation** using **Bull + Redis** queue workers (Excel & PDF)
+- 🔔 **Real-time notifications** using **WebSocket (Socket.io)**
+- 🔐 Multi-company **RBAC** with JWT auth, request signing & CSRF protection
+
+`Next.js` `NestJS` `MongoDB` `Bull` `Redis` `Socket.io` `TypeScript`
+> 🔒 _Private production codebase_
 
 ### 🦷 Reholt Dental System
 Real-time **dentist–agent–lab** communication system with live updates.
@@ -134,7 +149,7 @@ Automated **passes generation in the background** at scale using queue workers a
 | **🗂️ ETS** | Task, leave & timesheet automation system | `React.js` · `Node.js` |
 | **🧩 PCF Components** | Reusable PowerApps components integrated with Dataverse & SharePoint | `Power Apps` · `PCF` · `Dataverse` |
 
-<!-- Add repo/demo links above as you publish them: e.g. [**Project**](https://github.com/YOUR_GITHUB_USERNAME/repo) -->
+<!-- Add repo/demo links above as you publish them: e.g. [**Project**](https://github.com/vaibhav7047/repo) -->
 
 ---
 
