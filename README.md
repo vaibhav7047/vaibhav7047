@@ -3,7 +3,7 @@
   once you deploy them. Everything else is set. Edit freely.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vaibhav%20Kumar%20Rathor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Node.js%20%7C%20NestJS%20%7C%20Next.js%20Specialist&descAlignY=58&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vaibhav%20Kumar%20Rathor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Node.js%20%26%20NestJS%20Specialist&descAlignY=58&descSize=18" alt="banner"/>
 
 <div align="center">
 
