@@ -2,7 +2,7 @@
   ┌───────────────────────────────────────────────────────────────┐
   │  FILL THESE BEFORE PUBLISHING (search & replace):              │
   │   • vaibhav7047  → your GitHub username               │
-  │   • [Your City]           → your city                          │
+  │   • Pratapgarh, Rajasthan           → your city                          │
   │   • #  (repo/demo links)  → real links once deployed           │
   │  Everything else is pulled from your CV — edit freely.         │
   └───────────────────────────────────────────────────────────────┘
