@@ -3,12 +3,16 @@
   once you deploy them. Everything else is set. Edit freely.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vaibhav%20Kumar%20Rathor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Node.js%20%26%20NestJS%20Specialist&descAlignY=58&descSize=18" alt="banner"/>
+<!-- Optional decorative wave banner. If it ever fails to load, the text header below still shows your name. Delete this line if you don't want it. -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header" alt=""/>
+
+<h1 align="center">Vaibhav Kumar Rathor</h1>
+<h3 align="center">Full Stack Developer · Node.js &amp; NestJS Specialist</h3>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA3F2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(4%2B+Years);Node.js+%7C+NestJS+%7C+Express.js;React.js+%7C+Next.js;Background+Jobs+with+Bull+%26+Redis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA3F2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(4%2B+Years);Node.js+%7C+NestJS+%7C+Express.js;React.js+%7C+Next.js;Background+Jobs+with+Bull+%26+Redis" alt="Full Stack Developer - Node.js, NestJS, Next.js" />
 </a>
 
 🏆 <b>Building scalable, secure, real-world systems</b>
