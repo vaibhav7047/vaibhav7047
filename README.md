@@ -1,11 +1,6 @@
 <!--
-  ┌───────────────────────────────────────────────────────────────┐
-  │  FILL THESE BEFORE PUBLISHING (search & replace):              │
-  │   • vaibhav7047  → your GitHub username               │
-  │   • Pratapgarh, Rajasthan           → your city                          │
-  │   • #  (repo/demo links)  → real links once deployed           │
-  │  Everything else is pulled from your CV — edit freely.         │
-  └───────────────────────────────────────────────────────────────┘
+  Only remaining to fill: add repo/demo links (the "#" placeholders under projects)
+  once you deploy them. Everything else is set. Edit freely.
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vaibhav%20Kumar%20Rathor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Node.js%20%7C%20NestJS%20%7C%20Next.js%20Specialist&descAlignY=58&descSize=18" alt="banner"/>
@@ -22,7 +17,7 @@
 <a href="https://www.linkedin.com/in/vaibhav-rathor-70b177158/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="tel:+918619059541"><img src="https://img.shields.io/badge/+91%208619059541-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=vaibhav7047&style=flat-square&color=2EA3F2&label=Profile+Views"/>
-<img src="https://img.shields.io/badge/Location-%5BYour%20City%5D%2C%20India-2EA3F2?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Pratapgarh%2C%20Rajasthan-2EA3F2?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -155,10 +150,10 @@ Automated **passes generation in the background** at scale using queue workers a
 
 ## 📜 Certifications
 
-<!-- Add your certifications here, e.g.:
-- **[Certification Name]** — Issuer (Year)
--->
-_Coming soon._
+- [**Advanced Node.js: Scaling Applications**](https://www.linkedin.com/learning/certificates/86b297b6902f7d87c49552d6a39e0765b664d7ec46d321db97f5a343be2e7cd8) — LinkedIn Learning
+- [**React: Components, Context, and Accessibility**](https://www.linkedin.com/learning/certificates/86f93b94cd961b4f4437d702263cbafe7d90c75630c93929d971a7a6fcacb23e) — LinkedIn Learning
+- [**JavaScript: Under the Hood**](https://www.linkedin.com/learning/certificates/6e3c08c80180f3fd9f71391ceccd916863dc3b8151b06af8f0bf8ec3e71338b8) — LinkedIn Learning
+- [**SQL Professional**](https://www.edureka.co/certificates/mycertificate/72e06e3972a6d2bba92fc6a3e97f20e4) — Edureka
 
 ---
 
